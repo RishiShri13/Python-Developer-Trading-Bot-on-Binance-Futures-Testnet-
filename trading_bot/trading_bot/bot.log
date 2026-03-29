@@ -1,0 +1,7 @@
+2026-03-29 17:39:42,461 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:55:54,022 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 17:58:08,908 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 18:08:18,783 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 18:17:58,198 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 18:40:37,915 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-29 18:47:14,316 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action

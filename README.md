@@ -1,4 +1,4 @@
-# Python-Developer-Trading-Bot-on-Binance-Futures-Testnet-
+# 🚀 Python Trading Bot for Binance Futures Testnet — Automated Strategies, Smart Order Execution & Modular CLI Design
 
 A beginner-friendly *Python-based trading bot* that can place *Market, Limit, and Stop-Market orders* on Binance Futures Testnet using a clean CLI interface, logging system, and modular architecture.
 
